@@ -3,7 +3,7 @@ import os
 import json
 
 # 默认配置
-DEFAULT_API_KEY = "sk-ef2f69c1296e485595febc9bce51ce0f"
+DEFAULT_API_KEY = "sk-3559232492404cf08e93aeb87cb761d2"
 DEFAULT_MODEL = "qwen3.5-omni-plus"
 BAILIAN_BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1"
 
