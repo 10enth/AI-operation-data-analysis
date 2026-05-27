@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.superpowers/
+*.png
+output_*.png
+.ipynb_checkpoints/
